@@ -72,5 +72,8 @@ public class WeatherApp {
     // CODE SMELL: Unused private method
     private void unusedHelper() {
         String msg = "I am never used!";
+
+        lkhglkhg;lkjh
+            .kjkjn
     }
 }
